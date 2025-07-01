@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+title: "Let's Get Nerdy"
 ---
 
-This is my professional blog. Posts coming soon.
+Posts coming soon.
