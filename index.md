@@ -1,6 +1,5 @@
 ---
 layout: home
-title: 'Let''s Get Nerdy'
 ---
 
-Posts coming soon.
+You've found where @nerdymalini's braindumps currently live.
