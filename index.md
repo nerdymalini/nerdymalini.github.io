@@ -2,4 +2,4 @@
 layout: home
 ---
 
-You've found where @nerdymalini's braindumps currently live.
+Hello reader! You have found the home of @nerdymalini's braindumps.
