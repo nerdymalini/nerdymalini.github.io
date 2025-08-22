@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How '$200 billion flows every year: behind Australia's secret engine
+title: "How $200 billion flows every year: behind Australia's secret engine"
 date: 2025-08-22
 ---
 
