@@ -34,7 +34,7 @@ SuperStream dictates not just what information must be sent, but **how** it must
 
 ## **SuperStream's anatomy**
 
-![Superstream overview](/nerdymalini.github.io/assets/images/2025-08-22-superstream-overview.jpg)
+![Superstream overview](/assets/images/2025-08-22-superstream-overview.jpg)
 
 At a high level, SuperStream is a **federated messaging network** — not a single platform, but a set of **standards and roles** that ensure money and data travel together, correctly and securely.
 
