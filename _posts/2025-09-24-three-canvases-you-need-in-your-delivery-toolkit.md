@@ -45,4 +45,4 @@ Regardless of your job title, do you find yourself in a coaching, facilitator or
 
 ---
 
-``` Created with a little (a lot) of help from ChatGPT ```
+``` This post was created with a little (a lot) of help from ChatGPT ```
