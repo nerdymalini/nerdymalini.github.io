@@ -115,4 +115,4 @@ I think there's enough of a bull case that a Australian-based brokerage focusing
 
 ---
 
-``` Created with a little (a lot) of help from ChatGPT ```
+``` This post was created with a little (a lot) of help from ChatGPT ```
