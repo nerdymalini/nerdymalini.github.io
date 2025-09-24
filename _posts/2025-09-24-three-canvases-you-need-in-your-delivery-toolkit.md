@@ -11,18 +11,21 @@ Now that the era of Agile coaches has come and mostly gone, it's safe to say co
 And one of my favourite practices when acting in a coaching capacity is to visualise as much as possible. Visualising current state helps identify opportunity areas. Visualising intention helps gain alignment. Visualising progress helps sustain or build momentum.
 
 With that being said, I'd like to share my three favourite canvases that you may not have encountered before. While we all use tools like Lean Canvas and Initiative Canvas on the regular, visualisations like Coaching Canvas, Meeting Canvas and Service Design Blueprint can be just as useful.
+---
 
 ## Coaching Canvas
 ![Coaching canvas](/assets/images/2025-09-24-coaching-canvas-blank.png)
 This is very much a team coaching canvas, as opposed to coaching individual team members. It can be used by a squad, tribe or portfolio to identify what coaching support they need. 
 ![Coaching canvas example](/assets/images/2025-09-24-coaching-canvas-example.png)
 In the past, I've found coaching canvases useful in getting buyin from team leads who were resisting changes to their ways of working. By surfacing and visualising unblocks that were outside their control, they acknowledged need for coaching support and invited further coaching conversations.
+---
 
 ## Meeting Canvas
 ![Meeting canvas](/assets/images/2025-09-24-meeting-canvas-blank.png)
 Most meetings benefit from a straightforward PODS (purpose, outcome, decision, structure) framing. However when facilitating larger groups or workshops, the meeting canvas is useful for not just prompting the facilitator to think through key aspects but also for getting alignment from stakeholders on the session design.
 ![Meeting canvas example](/assets/images/2025-09-24-meeting-canvas-example.png)
 One of my favourite workshops are inception (aka initiative kick-off) workshops. Given how much ground needs to be covered in those discussions, I've found it this canvas useful in gaining alignment from multiple presenters who need to prepare and share at different points in the workshop.
+---
 
 ## Service Design Blueprint
 ![Service Design Blueprint](/assets/images/2025-09-24-service-design-blueprint.png)
