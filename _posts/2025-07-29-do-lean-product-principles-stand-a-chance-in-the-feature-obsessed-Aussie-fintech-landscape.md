@@ -112,3 +112,7 @@ Regardless of whether our hyper-focused, lean-featured brokerage offered Aussies
 # Conclusion
 
 I think there's enough of a bull case that a Australian-based brokerage focusing on 1.5 - 2 million actively trading Australian adults, providing them with a lean-featured, UX-optimised, no-fee, US markets-only platform would significantly disrupt the Australian retail trading landscape.
+
+---
+
+``` Created with a little (a lot) of help from ChatGPT ```
