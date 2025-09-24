@@ -68,4 +68,4 @@ My position is that the government has probably been more prescriptive than it n
 
 ---
 
-``` Created with a little (a lot) of help from ChatGPT ```
+``` This post was created with a little (a lot) of help from ChatGPT ```
