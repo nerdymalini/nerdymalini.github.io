@@ -42,3 +42,7 @@ While not named a 'canvas', service design blueprints share the same characteris
 ---
 
 Regardless of your job title, do you find yourself in a coaching, facilitator or reflective observer stance? When you do, are visualisations like canvases useful for gaining alignment? By capturing diverse perspectives on a single page, canvases can turn fuzzy conversations into shared understanding and practical next steps. Hopefully you have an opportunity to try out these canvases at your next delivery challenge and deploy them unlock clarity and momentum.
+
+---
+
+``` Created with a little (a lot) of help from ChatGPT ```
