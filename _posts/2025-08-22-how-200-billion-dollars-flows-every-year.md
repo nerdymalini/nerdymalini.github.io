@@ -65,3 +65,7 @@ In the 13 years since SuperStream legislation was introduced:
 [1]: https://www.apra.gov.au/news-and-publications/apra-releases-superannuation-statistics-for-december-2024?utm_source=chatgpt.com "APRA releases superannuation statistics for December 2024"
 
 My position is that the government has probably been more prescriptive than it needed to be; but the benefits of SuperStream outweigh these drawbacks. While we've had credit card and international payments networks created and regulated by private industry for decades, the driving force behind the innovative New Payment Platform (NPP) was the Reserve Bank of Australia. Similarly, having the ATO establish and evolve superannuation standards is a positive thing for Australia's open finance infrastructure.
+
+---
+
+``` Created with a little (a lot) of help from ChatGPT ```
