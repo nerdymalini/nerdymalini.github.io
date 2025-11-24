@@ -43,7 +43,7 @@ The effort to vertically integrate would take capital, may distract focus, and r
 ## Closing thoughts
 
 Fewer super funds now dominate the landscape, concentrating pricing power across a smaller set of players.
-![Fees and Costs as a Percentage of Assets, 2016](/assets/images/2025-11-24-oecd-superfund-fees.png =500x321)
+![Fees and Costs as a Percentage of Assets, 2016](/assets/images/2025-11-24-oecd-superfund-fees.png "{width='500'}")
 
 APRA has pushed consolidation on the basis that larger funds can deliver better member outcomes through scale. This is arguable, as outlined by [Morningstar](https://www.firstlinks.com.au/are-mega-super-funds-returns-set-to-fall).
 ![Number of APRA-Regulated Funds and Average Fund Size](/assets/images/2025-11-24-apra-regulated-fund-consolidation.png)
