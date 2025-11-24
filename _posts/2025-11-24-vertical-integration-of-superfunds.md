@@ -49,6 +49,7 @@ APRA has pushed consolidation on the basis that larger funds can deliver better 
 ![Number of APRA-Regulated Funds and Average Fund Size|500x316](/assets/images/2025-11-24-apra-regulated-fund-consolidation.png)
 
 Growth-minded funds who have conviction in their own distinctive offering may benefit from strategic vertical integration plays. This will allow them to stay independent while enabling more superfund options for members to choose from. 
+
 ---
 
 ``` This post was created with a little (a lot) of help from ChatGPT ```
