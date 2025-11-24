@@ -16,15 +16,15 @@ Let's explore which school of thought would most benefit customers (fund members
 
 In a typical superannuation ecosystem, multiple providers operate along the value chain. Accountability is shared across the following service providers:
 
-| Function                                     | Providers & examples                         | Terminology                                |   | Integration candidate |
-| -------------------------------------------- | -------------------------------------------- | ------------------------------------------ | - | --------------------- |
-| Core fund entity                             | AustralianSuper, Hostplus, UniSuper          | **Fund trustee**                           |   | Already core          |
-| Customer (fund member) support and comms     | Mercer, MUFG (acquired Link Group in 2024),  | **Administration**                         |   | Yes                   |
-| Invest funds, manage trades                  | BlackRock, IFM, Vanguard                     | **Investment management**                  |   | Yes                   |
-| Life insurance, disability cover             | TAL, MetLife                                 | **Insurance**                              |   | Maybe                 |
-| Manage holdings ownership, trade settlements | J.P. Morgan, State Street                    | **Custody**                                |   | Maybe                 |
-| Financial advice                             | Internal or external advisers                | **Financial advice**                       |   | Maybe                 |
-| Payment and data rails                       | Bravura ePASS, Iress SuperConnector          | **Superstream** gateways & clearing houses |   | No                    |
+| Function                                     | Providers & examples                         | Terminology                                | Integration candidate |
+| -------------------------------------------- | -------------------------------------------- | ------------------------------------------ | --------------------- |
+| Core fund entity                             | AustralianSuper, Hostplus, UniSuper          | **Fund trustee**                           | Already core          |
+| Customer (fund member) support and comms     | Mercer, MUFG (acquired Link Group in 2024),  | **Administration**                         | Yes                   |
+| Invest funds, manage trades                  | BlackRock, IFM, Vanguard                     | **Investment management**                  | Yes                   |
+| Life insurance, disability cover             | TAL, MetLife                                 | **Insurance**                              | Maybe                 |
+| Manage holdings ownership, trade settlements | J.P. Morgan, State Street                    | **Custody**                                | Maybe                 |
+| Financial advice                             | Internal or external advisers                | **Financial advice**                       | Maybe                 |
+| Payment and data rails                       | Bravura ePASS, Iress SuperConnector          | **Superstream** gateways & clearing houses | No                    |
 
  
 
