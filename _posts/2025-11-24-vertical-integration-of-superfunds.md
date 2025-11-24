@@ -4,8 +4,6 @@ title: "Vertical integration or focusing core competencies for superfunds"
 date: 2025-11-24
 ---
 
-# Vertical integration or focusing core competencies for superfunds
-
 When Australians consider as their superannuation fund is usually actually an amalgamation of services. Most superannuation funds focus on their core competency and outsource key functions to third-party service providers.
 
 However companies like Netflix, Apple and SpaceX have demonstrated the advantages of vertical integration. 
