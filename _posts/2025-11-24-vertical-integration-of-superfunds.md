@@ -4,11 +4,11 @@ title: "Vertical integration or focusing core competencies for superfunds"
 date: 2025-11-24
 ---
 
-When Australians consider as their superannuation fund is usually actually an amalgamation of services. Most superannuation funds focus on their core competency and outsource key functions to third-party service providers.
+What Australians consider as their superannuation fund is usually actually an amalgamation of services. Most superannuation funds outsource key functions to third-party service providers, in theory so as to focus on their core competencies.
 
-However companies like Netflix, Apple and SpaceX have demonstrated the advantages of vertical integration. 
+However companies like Netflix, Apple and SpaceX have demonstrated the advantages of vertical integration; and why narrowly focusing on core competencies may not be in the best interest of a company of its customers.
 
-Let's explore which school of thought would most benefit customers (fund members) and eventually the funds' bottom line? 
+Let's explore which school of thought would best suit the superannuation industry. 
 
 ## Super funds currently focus on their core competencies
 
@@ -24,13 +24,11 @@ In a typical superannuation ecosystem, multiple providers operate along the valu
 | Financial advice                             | Internal or external advisers                | **Financial advice**                       | Maybe                 |
 | Payment and data rails                       | Bravura ePASS, Iress SuperConnector          | **Superstream** gateways & clearing houses | No                    |
 
- 
-
-Each layer affects the member experience differently. Fragmented service delivery can create friction—such as inconsistent communication or delays between payroll contribution and balance updates. Conversely, when integration and data-sharing are strong, members experience smoother onboarding, transparent transactions, and cohesive engagement across touchpoints. 
+Each layer affects the member experience differently. Fragmented service delivery can create friction: such as inconsistent communication or delays between payroll contribution and balance updates. Conversely, when integration and data-sharing are strong, members experience smoother onboarding, transparent transactions, and cohesive engagement across touchpoints. 
 
 ## What could vertical integration look like
 
-Let's consider some of the examples noted at the start, what makes them vertically integrated. 
+Let's consider some of the examples noted at the start and what makes them vertically integrated. 
 
 | **Company** | **Vertical Integration**                                                                                              | **Pros / Cons**                                                                                                                                                                                                                             |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,7 +36,7 @@ Let's consider some of the examples noted at the start, what makes them vertical
 | **Apple**   | Designs hardware, software (iOS/macOS), chips (Apple Silicon), services, and controls retail + supply chain partners. | **Pros:** Tight ecosystem integration, performance optimization, strong brand, high margins, supply-chain resilience. **Cons:** High manufacturing/operations complexity, dependency on key suppliers, regulatory scrutiny, high R&D costs. |
 | **SpaceX**  | Builds rockets, engines, satellites, launch infrastructure, and operates Starlink. Prefers in-house manufacturing.    | **Pros:** Lower launch costs, rapid innovation, quality control, reduced supplier bottlenecks, faster iteration. **Cons:** Very capital-intensive, high engineering risk, massive operational scale needed, reliance on continuous funding. |
 
-Applied to superannuation, vertical integration would mean a single entity controlled  the key functions we noted earlier: trusteeship, managing investments, member support and communications.
+Applied to superannuation, vertical integration would mean a single entity controlled the key functions we noted earlier: trusteeship, managing investments, member support and communications.
 
 The effort to vertically integrate would take capital, may distract focus, and result in additional administrative overhead; however, done right, the benefits would be improved speed, consistency, and control.
 
