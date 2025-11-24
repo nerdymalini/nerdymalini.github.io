@@ -46,15 +46,6 @@ Fewer super funds now dominate the landscape, concentrating pricing power across
 ![Fees and Costs as a Percentage of Assets, 2016](/assets/images/2025-11-24-oecd-superfund-fees.png)
 
 APRA has pushed consolidation on the basis that larger funds can deliver better member outcomes through scale. This is arguable, as outlined by Morningstar <[https://www.firstlinks.com.au/are-mega-super-funds-returns-set-to-fall](https://www.firstlinks.com.au/are-mega-super-funds-returns-set-to-fall)>.
-
-<image Number of APRA-Regulated Funds and Average Fund Size>
+![Number of APRA-Regulated Funds and Average Fund Size](/assets/images/2025-11-24-apra-regulated-fund-consolidation.png)
 
 Growth-minded funds who have conviction in their own distinctive offering may benefit from strategic vertical integration plays. This will allow them to stay independent while enabling more superfund options for members to choose from. 
-
-
-
-[https://oia.pmc.gov.au/sites/default/files/posts/2020/10/superannuation_reforms_independent_review_report.pdf?utm_source=chatgpt.com](https://oia.pmc.gov.au/sites/default/files/posts/2020/10/superannuation_reforms_independent_review_report.pdf?utm_source=chatgpt.com)
-
-[https://download.asic.gov.au/media/4632718/rep-562-published-24-january-2018.pdf](https://download.asic.gov.au/media/4632718/rep-562-published-24-january-2018.pdf)
-
-[https://www.google.com/search?client=safari&sca_esv=170749da7b18780d&rls=en&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGI2CUZjs2u4q_gbKQXeWO6yCzU5CWDMm_z90DKpTknRNuuBXgkspzxRosUrT3qN2Qw25KeM7RBMh0J_udpE-wDWyUfsJg4n5z0gnK90cF-3eCkLQAnifRyGaeHk6UW9VSYvSR1A&q=2019+Productivity+Commission+review+into+superannuation.&sa=X&ved=2ahUKEwjNm_ClwoKRAxX9gK8BHbPAAoQQtKgLegQIQBAB&biw=1512&bih=858&dpr=2#vhid=-46KFXtX_yL07M&vssid=mosaic](https://www.google.com/search?client=safari&sca_esv=170749da7b18780d&rls=en&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZPH5QghoXViUOqdFyhkUfHhA90f6RZnLvcDKUWyhDavFBbFz95fUCRtZA8InbyClGI2CUZjs2u4q_gbKQXeWO6yCzU5CWDMm_z90DKpTknRNuuBXgkspzxRosUrT3qN2Qw25KeM7RBMh0J_udpE-wDWyUfsJg4n5z0gnK90cF-3eCkLQAnifRyGaeHk6UW9VSYvSR1A&q=2019+Productivity+Commission+review+into+superannuation.&sa=X&ved=2ahUKEwjNm_ClwoKRAxX9gK8BHbPAAoQQtKgLegQIQBAB&biw=1512&bih=858&dpr=2#vhid=-46KFXtX_yL07M&vssid=mosaic)
