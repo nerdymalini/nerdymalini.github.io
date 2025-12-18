@@ -29,7 +29,7 @@ A leveraged ETF like TQQQ or NVDL gives a multiplied bet; however the daily leve
 ## Growth in Retail Trading
 
 At the outset I was introduced to the concept 'smart money vs dumb money'. The understanding being institutional investors and market makers have data and other edges (smart money) that allow them to foresee and catalyse market movements; whereas the rest of us (retail traders = dumb money) react, have poor timing and chase trends.
-< [https://www.biancoresearch.com/bianco/samples/2025/07/DashEquityVolumeTraderType071625.png](https://www.biancoresearch.com/bianco/samples/2025/07/DashEquityVolumeTraderType071625.png) > 
+![Retail trading inflows are increasing](/assets/images/2025-12-18-retail-trading-inflows.png) 
 
 Recently, however, retail traders have been changing market dynamics. The earliest Josh Brown raised this hypothesis was The Dumb Money (27 Sep 2023) episode of *The Compound and Friends* podcast. He noted, “Dumb money is not always dumb. Wh[en enough of it moves togeth](https://podcasts.thecompoundnews.com/show/TCAF/the-dumb-money/?utm_source=chatgpt.com)er, it moves markets” ([podcasts.thecompoundnews.com](https://podcasts.thecompoundnews.com/show/TCAF/the-dumb-money/?utm_source=chatgpt.com)). He and Michael Batnick have explored this many times since on their pod. 
 
@@ -67,7 +67,7 @@ Retail traders have access to prosumer-level tools:
 
 TradingView has over 150 million quarterly active users whereas IBKR has over 2.5 million quarterly active users ([TradingView](https://pineify.app/resources/blog/how-many-people-use-tradingview-a-comprehensive-analysis?utm_source=chatgpt.com), [IBKR](https://www.interactivebrokers.com/en/index.php?f=2222&p=Q3-2025-Earnings)). It's surprising these deep data sets aren't resulting in more automated insights for users. For instance, Finviz (free tier) is the only screener I have found that enables searching by chart patterns; and that is fairly limited at the moment.
 
-![Retail trading inflows are increasing](/assets/images/2025-12-18-retail-trading-inflows.png)
+![Finviz screener](/assets/images/2025-12-18-finviz-screener.png)
 
 It would be good to understand why in the current environment of deep data pools and sophisticated AI models retail traders don't have access to better indicators and signals.
 
@@ -81,4 +81,5 @@ While being aware of scammers and low-value 'coaches'/'trainers' it was still sh
 
 I can't think of how regulators would even screen for these bad-faith 'service providers'. Their prevalence is quite eye opening though; it's not just some bad operators, but every learning environment - Youtube, Reddit, Xitter, etc - is absolutely infested with them. 
 
-< screenshot >
+![Misinformation drowns out everything else](/assets/images/2025-12-18-buyer-beware.png)
+
