@@ -14,8 +14,6 @@ Even people who spend lifetimes gaining trading proficiency narrowly specialise 
 
 My understanding of ETFs was that they wrapped a basket of stocks in a wrapper that made it convenient to trade and invest in them. It was not expecting them to be used to package stocks, sometimes a single company's stock, in a way that amplifies that stock's moves. 
 
- 
-
 Fund managers have creatively repurposed ETFs to use leverage and options for the resulting ETF to generate outsize returns (or losses!).
 
 | **Ticker** | Leverage           | Example                                                         |
@@ -43,11 +41,14 @@ At the commencement of my learning there was no doubt in my mind that institutio
 
 I was fortunate enough to start paper trading during a relatively bullish market. Up trends were clear and trialling a trend-continuation setup was simple. This resulted in small returns from short-term swing trades. However, I wasn't aware of slippage and I underestimated the effect of trading fees on small positions.
 
-| **Term**     | **Description**                                                                                                                                       |   |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **Slippage** | Difference between the price you expected to trade at vs the executed price. e.g. Limit buy at $100 however actual purchase price is $100.05.         |   |
-| **Spread**   | Gap between price sellers are offering at (ask) vs what sellers are looking to buy at (bid). Gap is wider for stocks with low floats/less liquidity.  |   |
-| **Fees**     | I am interested in the US market, Australian brokers currently offer ~USD 0.50 - 9.50 per trade (double that for buy/sell pairs).                     |   |
+| **Term**     | **Description**                                                                                                                                       |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Slippage** | Difference between the price you expected to trade at vs the executed price. e.g. Limit buy at $100 however actual purchase price is $100.05.         |
+| **Spread**   | Gap between price sellers are offering at (ask) vs what sellers are looking to buy at (bid). Gap is wider for stocks with low floats/less liquidity.  |
+| **Fees**     | I am interested in the US market, Australian brokers currently offer ~USD 0.50 - 9.50 per trade (double that for buy/sell pairs).                     |
+
+< image >
+[Source](https://passiveinvestingaustralia.com/online-trading-platforms-comparison)
 
 I realised that in order to meet my target target of 1% profit per trade I needed to better factor in cost. I was caught off guard that it's not the underlying strategy or setup that succeeds or fails, overlooking friction was the deal breaker.
 
