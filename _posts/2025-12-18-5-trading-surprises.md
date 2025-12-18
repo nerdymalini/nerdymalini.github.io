@@ -47,7 +47,7 @@ I was fortunate enough to start paper trading during a relatively bullish market
 | **Spread**   | Gap between price sellers are offering at (ask) vs what sellers are looking to buy at (bid). Gap is wider for stocks with low floats/less liquidity.  |
 | **Fees**     | I am interested in the US market, Australian brokers currently offer ~USD 0.50 - 9.50 per trade (double that for buy/sell pairs).                     |
 
-< image >
+![Australian brokers' fees for US trading](/assets/images/2025-12-18-australian-brokerage-fees-costs.png)
 [Source](https://passiveinvestingaustralia.com/online-trading-platforms-comparison)
 
 I realised that in order to meet my target target of 1% profit per trade I needed to better factor in cost. I was caught off guard that it's not the underlying strategy or setup that succeeds or fails, overlooking friction was the deal breaker.
@@ -67,7 +67,7 @@ Retail traders have access to prosumer-level tools:
 
 TradingView has over 150 million quarterly active users whereas IBKR has over 2.5 million quarterly active users ([TradingView](https://pineify.app/resources/blog/how-many-people-use-tradingview-a-comprehensive-analysis?utm_source=chatgpt.com), [IBKR](https://www.interactivebrokers.com/en/index.php?f=2222&p=Q3-2025-Earnings)). It's surprising these deep data sets aren't resulting in more automated insights for users. For instance, Finviz (free tier) is the only screener I have found that enables searching by chart patterns; and that is fairly limited at the moment.
 
-< screenshot >
+![Retail trading inflows are increasing](/assets/images/2025-12-18-retail-trading-inflows.png)
 
 It would be good to understand why in the current environment of deep data pools and sophisticated AI models retail traders don't have access to better indicators and signals.
 
