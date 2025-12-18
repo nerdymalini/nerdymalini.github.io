@@ -79,7 +79,10 @@ Finally, the retail trading ecosystem is a strange mix. Despite ASIC and SEC ove
 
 While being aware of scammers and low-value 'coaches'/'trainers' it was still shocking to realise that Lindstrom* I DM'd with on Discord wasn't the actual Lindstrom who set up the Discord server and was much-praised on Reddit. (*Not their real name/handle.) 
 
-I can't think of how regulators would even screen for these bad-faith 'service providers'. Their prevalence is quite eye opening though; it's not just some bad operators, but every learning environment - Youtube, Reddit, Xitter, etc - is absolutely infested with them. 
-
 ![Misinformation drowns out everything else](/assets/images/2025-12-18-buyer-beware.png)
 
+I can't think of how regulators would even screen for these bad-faith 'service providers'. Their prevalence is quite eye opening though; it's not just some bad operators, but every learning environment - Youtube, Reddit, Xitter, etc - is absolutely infested with them. 
+
+---
+
+``` This post was created with a little (a lot) of help from ChatGPT ```
