@@ -11,7 +11,7 @@ Despite having been immersed in the investing and trading world for a minute now
 * Corrections: Drawdown of 10 to 20% from a recent high
 * Bear markets: Declines of over 20% from a recent peak
 
-<image source: [https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)>
+![Covid SPX weekly, monthly](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)(/assets/images/2026-02-28-at-7.33.11-pm.png)
 
 There are numerous analyses of crashes, their causes, durations, similarities and differences across time. This will be a lightweight addition to that topic. Specifically, a review of price and volume action for select stockmarket drawnsdowns; without exploring macro factors or whether they were accompanies by economic recessions. So, a narrow focus on technicals of major stockmarket declines.
 
@@ -21,7 +21,7 @@ We'll go through our analysis from oldest to most recent, let's take a quick sid
 
 The most recent bear market would be the Covid Pandemic-triggered 2020 crash. 
 
-< Screenshot 2026-02-28 at 9.25.55 pm.png >
+![Covid SPX weekly, monthly](/assets/images/2026-02-28-at-9.25.55-pm.png)
 
 Reflect what that moment felt like as a trader or investor. It was an exogenous shock with high uncertainty what, if any, actions could be taken to help markets and economies recover. The US Federal Reserve stepped in with record fiscal stimulus. And it ended up being a V-shaped recovery with the market going on to hit new highs later in 2020.
 
