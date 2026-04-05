@@ -17,7 +17,7 @@ We'll go through our analysis from oldest to most recent, let's take a quick sid
 
 The most recent bear market would be the Covid Pandemic-triggered 2020 crash. 
 
-![Covid SPX weekly, monthly](/assets/images/2026-02-28-at-9.25.55-pm.png)
+![Covid SPX weekly, monthly](/assets/images/2026-02-28-covid-spx-weekly-monthly.png)
 
 Reflect what that moment felt like as a trader or investor. It was an exogenous shock with high uncertainty what, if any, actions could be taken to help markets and economies recover. The US Federal Reserve stepped in with record fiscal stimulus. And it ended up being a V-shaped recovery with the market going on to hit new highs later in 2020.
 
@@ -25,11 +25,11 @@ Reflect what that moment felt like as a trader or investor. It was an exogenous 
 
 ## Zooming back to 1929
 
-![Great Depression monthly](/assets/images/2026-02-28-at-10.09.45-pm.png) 
+![Great Depression monthly](/assets/images/2026-02-28-great-depression-monthly.png) 
 
 The initial stock market crash of 1929 saw a decline of over 40% over 2 months. Prices did not recover to their previous highs. The market eventually slid into the Great Depression, with the economy only recovering in 1939 either due to, or accelerated by, President Roosevelt's New Deal policies.
 
-![Great Depression weekly](/assets/images/2026-02-28-at-11.57.00-pm.png)
+![Great Depression weekly](/assets/images/2026-02-28-great-depression-weekly.png)
 
 Outside of the broader economic factors, the 1929 crash itself is characterised by:
 
@@ -41,13 +41,13 @@ Outside of the broader economic factors, the 1929 crash itself is characterised 
 
 ## Dot Com bubble bursting in 1999
 
-![Dot Com monthly](/assets/images/2026-02-28-at-12.07.39-am.png)
+![Dot Com monthly](/assets/images/2026-02-28-dot-com-monthly.png)
 
 Low interest rates meant plentiful credit to power the 'growth over profits' mindset. However by early 2000 a lot of technology and telco companies weren't generating revenues that supported their burn rates. This, in addition to a confluence of factors such as the US Federal Reserve raising interest rates saw a deep market drawdown.
 
 While $IXIC the Nasdaq Composite that is comprised of mostly technology companies experienced a decline of 87% from Mar 2000 to Oct 2002, the broader market was also impacted with $SPX the S&P 500 seeing a pullback of almost 50%.
 
-![Dot Com weekly](/assets/images/2026-02-28-at-12.46.47-am.png)
+![Dot Com weekly](/assets/images/2026-02-28-dot-com-weekly.png)
 
 Tech represented ~30% of the S&P and the 2000s bear market:
 
@@ -60,17 +60,17 @@ Tech represented ~30% of the S&P and the 2000s bear market:
 
 ## Great Financial Crisis of 2008
 
-![Margot Robbie, The Big Short](/assets/images/2026-02-28-at-9.25.56-pm.png)
+![Margot Robbie, The Big Short](/assets/images/2026-02-28-big-short-margot-robbie.png)
 
 If you haven't already listened and watched them, I highly recommend is NPR's [Giant Pool of Money episode](https://www.thisamericanlife.org/355/the-giant-pool-of-money) and [The Big Short](https://www.imdb.com/title/tt1596363) movie.
 
 Once again, easy credit conditions meant investments in overvalued assets; in 2008's case this was compounded by irresponsible lending and led to a housing bubble. Here in Australia we were extraordinarily lucky that the impact was relatively mild. Elsewhere, the crisis saw centuries-year old banks bankrupted, countries defaulting on loans, and double-digit unemployment. 
 
-![GFC weekly](/assets/images/2026-02-28-at-10.39.22-am.png)
+![GFC weekly](/assets/images/2026-02-28-gfc-weekly.png)
 
 Once the slide started in late 2007, the down weeks saw steep declines in prices accompanied by much higher trading volumes. 
 
-![GFC monthly](/assets/images/2026-02-28-at-10.43.25-am.png)
+![GFC monthly](/assets/images/2026-02-28-gfc-monthly.png)
 
 Noticeable on the S&P weekly and monthly charts:
 
@@ -85,7 +85,7 @@ Noticeable on the S&P weekly and monthly charts:
 
 The pandemic-triggered market drawdown was short and sharp. 
 
-![Covid weekly](/assets/images/2026-02-28-at-12.27.13-pm.png)
+![Covid weekly](/assets/images/2026-02-28-covid-weekly.png)
 
 The standout chart characteristics are:
 
