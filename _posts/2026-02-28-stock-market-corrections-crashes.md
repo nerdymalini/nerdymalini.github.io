@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Stock market crashes, past and present"
+date: 2026-02-28
+---
+
 ## Intro
 
 Despite having been immersed in the investing and trading world for a short while, I only recently learned the technical definitions of:
