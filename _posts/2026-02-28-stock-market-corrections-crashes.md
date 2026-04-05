@@ -5,7 +5,7 @@ Despite having been immersed in the investing and trading world for a short whil
 * Corrections: Drawdown of 10 to 20% from a recent high
 * Bear markets: Declines of over 20% from a recent peak
 
-![https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes](/assets/images/2026-02-28-at-7.33.11-pm.png)
+![https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes](/assets/images/2026-02-28-morningstar-150-years-stock-market.png)
 
 There are numerous analyses of crashes, their causes, durations, similarities and differences across time. This will be a lightweight addition to that topic. Specifically, a review of price and volume action for select stockmarket drawdowns; without exploring macro factors or whether they were accompanied by economic recessions. So, a narrow focus on technicals of major stockmarket declines.
 
