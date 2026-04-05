@@ -2,6 +2,7 @@
 layout: post
 title: "Three canvases you need in your delivery toolkit"
 date: 2025-09-24
+tags: [delivery-management, team-coaching]
 ---
 
 Now that the era of Agile coaches has come and mostly gone, it's safe to say coaching is a practice not necessarily a job title. *(Slight detour: Remember when we used to say that about Scrum Masters? It's a role, not a job title? Oddly enough, the title itself is now often called Delivery Lead but over two decades of practicing Agile has demonstrated it's definitely a job.)*
