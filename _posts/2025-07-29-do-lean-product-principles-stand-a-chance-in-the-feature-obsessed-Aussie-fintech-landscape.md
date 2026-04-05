@@ -2,6 +2,7 @@
 layout: post
 title: "Do Lean product principles stand a chance in the feature-obsessed Aussie fintech landscape"
 date: 2025-07-29
+tags: [product-management, fintech]
 ---
 
 # Can a fintech startup disrupt retail trading in Australia
