@@ -60,15 +60,15 @@ Tech represented ~30% of the S&P and the 2000s bear market:
 
 ![Margot Robbie, The Big Short](/assets/images/2026-02-28-at-9.25.56-pm.png)
 
-If you haven't already listened and watched them, I highly recommend NPR's Giant Pool of Money episode [https://www.thisamericanlife.org/355/the-giant-pool-of-money](https://www.thisamericanlife.org/355/the-giant-pool-of-money) and The Big Short [https://www.imdb.com/title/tt1596363/](https://www.imdb.com/title/tt1596363/) movie.
+If you haven't already listened and watched them, I highly recommend is NPR's [Giant Pool of Money episode](https://www.thisamericanlife.org/355/the-giant-pool-of-money) and [The Big Short](https://www.imdb.com/title/tt1596363) movie.
 
 Once again, plentiful credit meant investments in overvalued assets; in 2008's case this was compounded by irresponsible lending and led to a housing bubble. Here in Australia we were extraordinarily lucky that the impact was relatively mild. Elsewhere, the crisis saw centuries-year old banks bankrupted, countries defaulting on loans, and double-digit unemployment. 
 
-![GFC monthly](/assets/images/2026-02-28-at-10.39.22-am.png)
+![GFC weekly](/assets/images/2026-02-28-at-10.39.22-am.png)
 
 Once the slide started in late 2007, the down weeks saw steep declines in prices accompanied by much higher trading volumes. 
 
-![GFC weekly](/assets/images/2026-02-28-at-10.43.25-am.png)
+![GFC monthly](/assets/images/2026-02-28-at-10.43.25-am.png)
 
 Noticeable on the S&P weekly and monthly charts:
 
@@ -81,7 +81,7 @@ Noticeable on the S&P weekly and monthly charts:
 
 The pandemic-triggered market drawdown was short and sharp. 
 
-< Screenshot 2026-02-28 at 12.27.13 pm.png >
+![Covid weekly](/assets/images/2026-02-28-at-12.27.13-pm.png)
 
 The standout chart characteristics are:
 
