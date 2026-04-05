@@ -2,6 +2,7 @@
 layout: post
 title: "Vertical integration or focusing core competencies for superfunds"
 date: 2025-11-24
+tags: [superannuation, product-management]
 ---
 
 What Australians consider as their superannuation fund is usually actually an amalgamation of services. Most superannuation funds outsource key functions to third-party service providers, in theory so as to focus on their core competencies.
