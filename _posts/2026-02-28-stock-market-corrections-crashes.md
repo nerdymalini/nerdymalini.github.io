@@ -1,19 +1,15 @@
----
-layout: post
-title: "Stock market crashes, past and present"
-date: 2026-02-28
----
-
 ## Intro
 
-Despite having been immersed in the investing and trading world for a minute now, I only recently learned the technical definitions of:
+Despite having been immersed in the investing and trading world for a short while, I only recently learned the technical definitions of:
 
 * Corrections: Drawdown of 10 to 20% from a recent high
 * Bear markets: Declines of over 20% from a recent peak
 
 ![https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes](/assets/images/2026-02-28-at-7.33.11-pm.png)
 
-There are numerous analyses of crashes, their causes, durations, similarities and differences across time. This will be a lightweight addition to that topic. Specifically, a review of price and volume action for select stockmarket drawnsdowns; without exploring macro factors or whether they were accompanies by economic recessions. So, a narrow focus on technicals of major stockmarket declines.
+There are numerous analyses of crashes, their causes, durations, similarities and differences across time. This will be a lightweight addition to that topic. Specifically, a review of price and volume action for select stockmarket drawdowns; without exploring macro factors or whether they were accompanied by economic recessions. So, a narrow focus on technicals of major stockmarket declines.
+
+---
 
 ## Slight detour to establish a reference
 
@@ -25,9 +21,11 @@ The most recent bear market would be the Covid Pandemic-triggered 2020 crash. 
 
 Reflect what that moment felt like as a trader or investor. It was an exogenous shock with high uncertainty what, if any, actions could be taken to help markets and economies recover. The US Federal Reserve stepped in with record fiscal stimulus. And it ended up being a V-shaped recovery with the market going on to hit new highs later in 2020.
 
+---
+
 ## Zooming back to 1929
 
-![Great Depression monthly](/assets/images/2026-02-28-at-10.09.45-pm.png)
+![Great Depression monthly](/assets/images/2026-02-28-at-10.09.45-pm.png) 
 
 The initial stock market crash of 1929 saw a decline of over 40% over 2 months. Prices did not recover to their previous highs. The market eventually slid into the Great Depression, with the economy only recovering in 1939 either due to, or accelerated by, President Roosevelt's New Deal policies.
 
@@ -35,9 +33,11 @@ The initial stock market crash of 1929 saw a decline of over 40% over 2 months. 
 
 Outside of the broader economic factors, the 1929 crash itself is characterised by:
 
-* An over valued stock market; due to post-World War I's economic boom of the Roaring Twenties
+* An overvalued stock market; due to post-World War I's economic boom of the Roaring Twenties
 * Black Thursday 24 Oct 1929 saw a single day decline of 11%, followed by Black Monday 28 Oct 1929 decline of another 11%
 * During the initial crash both the monthly and weekly charts respected moving averages with weekly prices bouncing up from the 200 moving average and the monthly chart bouncing up from the 50 moving average
+
+---
 
 ## Dot Com bubble bursting in 1999
 
@@ -56,13 +56,15 @@ Tech represented ~30% of the S&P and the 2000s bear market:
 * Prices dropped through the weekly 200 moving average and the monthly 50 moving average before the market started recovering
 * S&P prices took 4.5 years to return to 2007's highs
 
+---
+
 ## Great Financial Crisis of 2008
 
 ![Margot Robbie, The Big Short](/assets/images/2026-02-28-at-9.25.56-pm.png)
 
 If you haven't already listened and watched them, I highly recommend is NPR's [Giant Pool of Money episode](https://www.thisamericanlife.org/355/the-giant-pool-of-money) and [The Big Short](https://www.imdb.com/title/tt1596363) movie.
 
-Once again, plentiful credit meant investments in overvalued assets; in 2008's case this was compounded by irresponsible lending and led to a housing bubble. Here in Australia we were extraordinarily lucky that the impact was relatively mild. Elsewhere, the crisis saw centuries-year old banks bankrupted, countries defaulting on loans, and double-digit unemployment. 
+Once again, easy credit conditions meant investments in overvalued assets; in 2008's case this was compounded by irresponsible lending and led to a housing bubble. Here in Australia we were extraordinarily lucky that the impact was relatively mild. Elsewhere, the crisis saw centuries-year old banks bankrupted, countries defaulting on loans, and double-digit unemployment. 
 
 ![GFC weekly](/assets/images/2026-02-28-at-10.39.22-am.png)
 
@@ -77,6 +79,8 @@ Noticeable on the S&P weekly and monthly charts:
 * The red candles were accompanied by high trading volumes
 * Recovery, or a return to 2007's peak, took four years with many pauses along the way
 
+---
+
 ## Covid Correction in 2020
 
 The pandemic-triggered market drawdown was short and sharp. 
@@ -90,4 +94,14 @@ The standout chart characteristics are:
 * Prices dropping through moving averages without pausing 
 * The recovery was V-shaped, with prices resuming their earlier highs under five months
 
+---
+
 ## Drawing insights from these observations
+
+I can only identify a few clear insights when viewing prior bear markets through the narrow lens of technicals and price action:
+
+* Recoveries tend to take longer than drawdowns; even for V-shaped recoveries
+* Easy availability of credit, often leading to over-valuation, seems to be a running theme in three of the four crashes analysed here
+* A weak economy isn't necessarily accompanied by poor stock market performance; however bear markets are highly likely to result in weakened economic factors, if not recessions
+
+At this stage, in early 2026, it's unclear whether we're at the precipice of a market decline. Overvaluation and uncertainty risks are present, but earnings have been strong. Whichever direction we take, there will be upside for those who remain flexible, disciplined, and responsive to changing conditions.
