@@ -2,6 +2,7 @@
 layout: post
 title: "How $200 billion flows every year: behind Australia's secret engine"
 date: 2025-08-22
+tags: [superannuation, superstream]
 ---
 
 Here in Australia we've been benefiting from automatic retirement savings as long as we have an income. But just because something is a government policy, doesn't mean it's actually enforced. Given there were almost $200billion in superannuation payments in 2024, the government has mandated the use of a glut of technical infrastructure to power superannuation payments and reporting in order to minimise errors in how this money flows.
