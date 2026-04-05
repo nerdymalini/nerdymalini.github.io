@@ -2,6 +2,7 @@
 layout: post
 title: "Five surprises I found as a beginner trader"
 date: 2025-12-18
+tags: [technical-analysis, stock-market]
 ---
 
 For the last twelve months I've been trying to learn the principles and practices of technical analysis and swing trading. My progression has been lots of reading and Youtube, to paper trading and I'm currently swing trading with tiny positions. Over time, I noticed patterns not just on charts but in the market itself, and in how people interact with it. From the curious to the shocking, these are some of the things that really surprised me along the way.
