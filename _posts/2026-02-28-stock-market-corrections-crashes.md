@@ -105,3 +105,8 @@ I can only identify a few clear insights when viewing prior bear markets through
 * A weak economy isn't necessarily accompanied by poor stock market performance; however bear markets are highly likely to result in weakened economic factors, if not recessions
 
 At this stage, in early 2026, it's unclear whether we're at the precipice of a market decline. Overvaluation and uncertainty risks are present, but earnings have been strong. Whichever direction we take, there will be upside for those who remain flexible, disciplined, and responsive to changing conditions.
+
+---
+
+``` This post was created with a little (a lot) of help from ChatGPT ```
+``` Sources: https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes, https://www.marketwatch.com/story/history-shows-investors-are-right-to-worry-about-2026-being-a-bad-year-for-u-s-stocks-2d82d09b, Wikipedia ```
