@@ -2,6 +2,7 @@
 layout: post
 title: "Hello World!"
 date: 2025-07-01
+tags: [markdown, blog]
 ---
 
 Here's a post to validate whether using Github Pages is a sustainable way for me to publish my brain dumps with minimal fuss.
