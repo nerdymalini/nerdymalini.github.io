@@ -2,6 +2,7 @@
 layout: post
 title: "Stock market crashes, past and present"
 date: 2026-02-28
+tags: [stock-markets, bear-markets, corrections, market-structure]
 ---
 
 ## Intro
