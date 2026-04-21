@@ -9,15 +9,15 @@ US online brokerages have led globally in terms of innovation and competition in
 
 For Australian fintechs and brokers, understanding these approaches offers concrete lessons in how to sequence capabilities, manage regulatory risk, and balance customer acquisition with sustainable economics.
 
-< [https://substackcdn.com/image/fetch/$s_!qGu6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c7329ee-bdd5-47f3-8265-6eab309a0b73_966x546.jpeg](https://substackcdn.com/image/fetch/$s_!qGu6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c7329ee-bdd5-47f3-8265-6eab309a0b73_966x546.jpeg) > [https://robeco.substack.com/p/revenge-of-the-retail-trader](https://robeco.substack.com/p/revenge-of-the-retail-trader)
+![https://robeco.substack.com/p/revenge-of-the-retail-trader]()
 
-< [https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/476175a6-148b-45a3-a7a9-84ad3aad2dbf/Screenshot-2025-12-04-161426.png?t=1764883503](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/476175a6-148b-45a3-a7a9-84ad3aad2dbf/Screenshot-2025-12-04-161426.png?t=1764883503) > [https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev](https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev)
+![https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev]()
 
 ---
 
 ## Robinhood: Democratization Through User‑First Design
 
-[https://news.futunn.com/en/post/66203855/in-depth-analysis-of-robinhood-s-latest-fundamentals-and-revenue?level=2&data_ticket=1767051360857366](https://news.futunn.com/en/post/66203855/in-depth-analysis-of-robinhood-s-latest-fundamentals-and-revenue?level=2&data_ticket=1767051360857366)
+![https://www.ark-invest.com/articles/analyst-research/robinhood-first-financial-institution-built-for-internet-generation]()
 
 Founded in 2013 by Vladimir Tenev and Baiju Bhatt, Robinhood set out with a simple, radical mission: *to democratize access to financial markets*. The founders, who previously built trading infrastructure for Wall Street firms, applied technology to eliminate traditional brokerage fees and simplify entry into financial markets for everyday investors.
 
