@@ -9,9 +9,9 @@ US online brokerages have led globally in terms of innovation and competition in
 
 For Australian fintechs and brokers, understanding these approaches offers concrete lessons in how to sequence capabilities, manage regulatory risk, and balance customer acquisition with sustainable economics.
 
-![https://robeco.substack.com/p/revenge-of-the-retail-trader](assets/images/2026-04-21-us-retail-brokerage-DARTs.webp)
+![https://robeco.substack.com/p/revenge-of-the-retail-trader](/assets/images/2026-04-21-us-retail-brokerage-DARTs.webp)
 
-![https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev](assets/images/2026-04-21-us-retail-brokerage-DAUs.png)
+![https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev](/assets/images/2026-04-21-us-retail-brokerage-DAUs.png)
 
 ---
 
