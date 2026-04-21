@@ -9,15 +9,15 @@ US online brokerages have led globally in terms of innovation and competition in
 
 For Australian fintechs and brokers, understanding these approaches offers concrete lessons in how to sequence capabilities, manage regulatory risk, and balance customer acquisition with sustainable economics.
 
-![https://robeco.substack.com/p/revenge-of-the-retail-trader](/assets/images/2026-04-21-us-retail-brokerage-DARTs.webp)
+![Source: https://robeco.substack.com/p/revenge-of-the-retail-trader](/assets/images/2026-04-21-us-retail-brokerage-DARTs.webp "Source: https://robeco.substack.com/p/revenge-of-the-retail-trader")
 
-![https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev](/assets/images/2026-04-21-us-retail-brokerage-DAUs.png)
+![Source: https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev](/assets/images/2026-04-21-us-retail-brokerage-DAUs.png "Source: https://www.theirrelevantinvestor.com/p/the-compound-and-friends-inside-the-robinhood-revolution-with-vlad-tenev")
 
 ---
 
 ## Robinhood: Democratization Through User‑First Design
 
-![https://www.ark-invest.com/articles/analyst-research/robinhood-first-financial-institution-built-for-internet-generation](/assets/images/2026-04-21-robinhood-product-strategy-broad.png)
+![Source: https://www.ark-invest.com/articles/analyst-research/robinhood-first-financial-institution-built-for-internet-generation](/assets/images/2026-04-21-robinhood-product-strategy-broad.png "Source: https://www.ark-invest.com/articles/analyst-research/robinhood-first-financial-institution-built-for-internet-generation")
 
 Founded in 2013 by Vladimir Tenev and Baiju Bhatt, Robinhood set out with a simple, radical mission: *to democratize access to financial markets*. The founders, who previously built trading infrastructure for Wall Street firms, applied technology to eliminate traditional brokerage fees and simplify entry into financial markets for everyday investors.
 
