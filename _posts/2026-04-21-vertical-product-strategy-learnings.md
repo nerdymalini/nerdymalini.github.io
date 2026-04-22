@@ -27,9 +27,9 @@ Robinhood’s early product was starkly minimal — mobile‑first, intuitive, a
 
 This design choice aligned tightly with Robinhood’s core audience — first‑time and casual retail investors — and enabled rapid user growth. By removing commissions and streamlining onboarding, Robinhood converted latent interest in markets into active participation at scale.
 
-### From Retail to Prosumer
+### Expanding capabilities
 
-Over time, Robinhood expanded beyond its original “retail‑only” posture toward a broader *prosumer* audience:
+Over time, Robinhood expanded beyond its original retail‑only posture toward a broader prosumer audience:
 
 * **Options trading** and more sophisticated instruments to retain higher‑engagement users.
 * **Tokenisation and prediction markets**, extending into digital assets and alternative market structures.
@@ -37,9 +37,9 @@ Over time, Robinhood expanded beyond its original “retail‑only” posture to
 
 This represents a classic platform broadening strategy: increasing average revenue per user and reducing churn by becoming a multi‑product financial hub rather than a single‑use trading app.
 
-### Business Model: Free Trades, Monetised Flow
+### Free Trades, Monetised Flow
 
-Robinhood’s zero‑commission model is underpinned by **payment for order flow (PFOF)** — selling retail orders to market makers in exchange for execution rebates. This allowed Robinhood to subsidise “free” trades while scaling rapidly, but it also introduced regulatory and reputational risk.
+Robinhood’s zero‑commission model is underpinned by payment for order flow (PFOF) — selling retail orders to market makers in exchange for execution rebates. This allowed Robinhood to subsidise “free” trades while scaling rapidly, but it also introduced regulatory and reputational risk.
 
 Recognising this, Robinhood has increasingly diversified revenue streams — earning interest on client cash balances, margin lending, and subscription fees — reducing reliance on transaction‑linked revenues and improving business resilience.
 
@@ -47,30 +47,23 @@ Recognising this, Robinhood has increasingly diversified revenue streams — ear
 
 ## Interactive Brokers: Technology‑Led Vertical Integration
 
-[https://finance.yahoo.com/news/interactive-brokers-q3-2024-review-140000918.html](https://finance.yahoo.com/news/interactive-brokers-q3-2024-review-140000918.html)
+![IBKR's roles in the order flow](/assets/images/2026-04-21-ibkr-vertical-integrations.png "IBKR's roles in the order flow")
 
-[https://www.livewiremarkets.com/wires/this-company-is-redefining-electronic-trading-and-seeing-phenomenal-growth](https://www.livewiremarkets.com/wires/this-company-is-redefining-electronic-trading-and-seeing-phenomenal-growth)
+Interactive Brokers, reflects a fundamentally different origin story. The founder, Thomas Peterffy was an early pioneer of electronic and algorithmic trading, building automated execution systems decades before such approaches became mainstream. This heritage shaped IBKR’s DNA: execution quality, automation, and cost efficiency over mass‑market simplicity.
 
-Interactive Brokers, founded in 1978 by **Thomas Peterffy**, reflects a fundamentally different origin story. Peterffy was an early pioneer of electronic and algorithmic trading, building automated execution systems decades before such approaches became mainstream. This heritage shaped IBKR’s DNA: execution quality, automation, and cost efficiency over mass‑market simplicity.
+### Early technical focus
 
-### Founder Legacy and Market Structure Insight
+Rather than relying on third‑party infrastructure, IBKR built and integrated its own trading systems, risk management, clearing, and routing technology. This deep vertical integration allows IBKR to operate at extremely low marginal cost while offering global market access across equities, options, futures, forex, and fixed income.
 
-Peterffy’s background as a market maker and technologist — including experience around early electronic exchanges and the evolution of U.S. market structure — informed IBKR’s long‑term strategy. Rather than relying on third‑party infrastructure, IBKR built and integrated its own trading systems, risk management, clearing, and routing technology.
+### Global expansion
 
-This deep vertical integration allows IBKR to operate at extremely low marginal cost while offering global market access across equities, options, futures, forex, and fixed income.
+Unlike Robinhood, IBKR has been operating globally since its early days and contiues to grow this channel. Through the 2010s, IBKR focused on professionals rather than retail traders, with offerings including access to global exchanges, equities, options, futures and forex. In 2019 it started responding to Robinhood with its commission-free IBKR Lite tier. 
 
-### Execution, Routing, and Cost Advantage
+### Trading speed, cost and pricing
 
-IBKR’s proprietary **SmartRouting** technology dynamically routes orders to venues offering optimal pricing and liquidity, prioritising execution quality over monetisation. Unlike Robinhood, IBKR’s model is less dependent on PFOF and more focused on internal efficiency and scale economics.
+IBKR’s proprietary SmartRouting technology dynamically routes orders to venues offering optimal pricing and liquidity, prioritising execution quality over monetisation. Unlike Robinhood, IBKR’s model is less dependent on PFOF and more focused on internal efficiency and scale economics. This enables IBKR to fill orders at low cost, with no-to-minimal price slippage, with fast execution times.
 
 Its revenue mix reflects this: commissions (especially from professional traders), net interest income on client balances, market data fees, and value‑added services. Automation enables profitability even at very low transaction prices.
-
-IBKR also operates a segmented offering:
-
-* **IBKR Lite** for price‑sensitive retail users.
-* **IBKR Pro** for active traders and institutions who prioritise execution quality and advanced tooling.
-
-This segmentation allows IBKR to expand its addressable market without compromising its core execution philosophy.
 
 ---
 
@@ -91,17 +84,26 @@ Robinhood and IBKR sit at opposite ends of the brokerage design spectrum:
 
 Robinhood’s advantage lies in distribution and engagement; IBKR’s lies in durability and operational leverage. Each reflects a coherent strategy aligned to its target customer.
 
+![Source: TradingView](/assets/images/2026-04-21-stock-hood-vs-ibkr.png "Source: TradingView")
+
+* In 2021, Robinhood $HOOD was valued at $32 billion at IPO; whereas Interactive Brokers $IBKR went public in 2007 with a valuation of $1.2 billion
+* Since going public, in the last 5 years Robinhood's marketcap has grown 2.4x to $77.8 billion in 2026. Considering the GFC (global financial crisis) bear market started in 2007 and prices only recovered in 2013, IBKR lost marketcap in its first 5 years. Now, in 2026 IBKR has a marketcap of $135 billion having grown 112x since IPO.
+
+If it maintains its growth trajectory, Robinhood is on track to overtake IBKR in a few years. The key question being whether it can continue to grow its retail trader base in the US, most likely by taking market share from incumbents such as Fidelity or Schwab. In US markets, its value proposition is compelling to this demographic; and while it is onboarding other customer segments, it would seem young retail traders will remain its growth engine. 
+
+IBKR has done minimal marketing to date, it can always turn this dial up to accelerate its growth rate; however this would be in conflict with its emphasis on low operating costs being passed on to customers in the form of low commissions. 
+
 ---
 
 ## Lessons for Australian Brokers and Fintechs
 
 Several insights emerge for Australian players:
 
-1. **Choose integration depth deliberately** — shallow integration accelerates launch and growth; deep integration builds long‑term defensibility.
-2. **Diversify revenue early** — zero‑commission models require alternative income sources to survive regulatory and market shifts.
-3. **Segment customers explicitly** — retail and prosumer needs differ materially; one platform does not fit all.
-4. **Invest in execution and infrastructure** — even when invisible to users, these capabilities drive pricing power and resilience.
-5. **Balance simplicity with progression** — onboarding users is easy; retaining and monetising them requires a clear upgrade path.
+1. **Choose integration depth deliberately:** Shallow integration accelerates launch and growth; deep integration builds long‑term defensibility.
+2. **Diversify revenue early:** Zero‑commission models require alternative income sources to survive regulatory and market shifts.
+3. **Segment customers explicitly:** Retail and prosumer needs differ materially; one platform does not fit all.
+4. **Invest in execution and infrastructure:** Even when invisible to users, these capabilities drive pricing power and resilience.
+5. **Balance simplicity with progression:** Onboarding users is easy; retaining and monetising them requires a clear upgrade path.
 
 For Australian fintechs operating in a smaller, more regulated market, the lesson is not to copy U.S. models wholesale — but to understand *which parts of the stack matter most*, and when. Robinhood and IBKR demonstrate that success is less about free trades, and more about strategic coherence across technology, regulation, and customer design.
 
