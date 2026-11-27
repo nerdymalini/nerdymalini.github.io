@@ -7,6 +7,11 @@
 
 /* custom overrides */
 
+hr {
+  border: none;
+  border-top: 1px solid var(--minima-border-color-01);
+}
+
 body {
   font-size: 16px;
   line-height: 1.65;
