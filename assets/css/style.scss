@@ -7,6 +7,6 @@
 
 /* test */
 hr {
-  border: 0;
-  border-top: 1px solid blue;
+  border: 0 !important;
+  border-top: 3px solid blue !important;
 }
