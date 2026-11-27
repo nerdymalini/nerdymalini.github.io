@@ -1,2 +1,10 @@
 title: "Let's Get Nerdy"
-theme: minima
+theme: "jekyll/minima@master"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
