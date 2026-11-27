@@ -7,6 +7,9 @@
 
 /* test */
 hr {
-  border: 0 !important;
-  border-top: 3px solid var(--minima-border-color-01) !important;
+  display: block;
+  border: none;
+  border-top: 1px solid var(--minima-border-color-01);
+  margin: 2rem 0;
+  height: 0;
 }
