@@ -7,25 +7,91 @@
 
 /* custom overrides */
 
-hr {
-  border: none;
-  border-top: 1px solid var(--minima-border-color-01);
-}
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+
+$font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-serif: "Newsreader", Georgia, serif;
 
 body {
-  font-size: 16px;
-  line-height: 1.65;
-  letter-spacing: 0.01em;
+  font-family: $font-sans;
+  font-size: 15.5px;
+  line-height: 1.7;
+  color: #2c2c2c;
+  -webkit-font-smoothing: antialiased;
+}
+
+.site-title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 .post-title,
+.page-heading,
+.page-content h1,
+.page-content h2,
+.post-content h1,
 .post-content h2,
-.post-content h3 {
+.post-link {
+  font-family: $font-serif;
   font-weight: 400;
+  color: #111111;
+}
+
+.post-title,
+.page-heading {
+  font-size: 2.75rem;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.page-content h2,
+.post-content h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-top: 3rem;
+  margin-bottom: 0.9rem;
+}
+
+.page-content h3,
+.post-content h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: #111111;
+  margin-top: 2.25rem;
+  margin-bottom: 0.6rem;
+}
+
+.page-content p,
+.post-content p {
+  margin-bottom: 1.35rem;
+}
+
+.post-list-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666666;
+  margin-bottom: 1.5rem;
+}
+
+.post-list > li {
+  margin-bottom: 2.25rem;
+}
+
+.post-link {
+  font-size: 1.65rem;
+  line-height: 1.25;
   letter-spacing: -0.015em;
 }
 
-.post-title { font-size: 2.4rem; line-height: 1.15; }
-.post-content h2 { font-size: 1.85rem; margin-top: 2.5rem; }
-.post-content h3 { font-size: 1.35rem; margin-top: 1.85rem; }
-.post-content p { margin-bottom: 1.25rem; }
+.post-meta,
+.footer-col-wrapper {
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  color: #666666;
+}
