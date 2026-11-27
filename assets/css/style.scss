@@ -5,7 +5,46 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-/* test */
+/* custom overrides */
+
+:root {
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lead: clamp(1.125rem, 1.05rem + 0.4vw, 2.25rem);
+  --text-h3: clamp(1.25rem, 1.05rem + 0.5vw, 2.5rem);
+  --text-h2: clamp(1.75rem, 1.15rem + 1.5vw, 3.5rem);
+  --text-h1: clamp(2rem, 1.25rem + 3vw, 4rem);
+}
+
+body {
+  font-family: "Your Body Font", system-ui, sans-serif;
+  font-size: var(--text-base);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--text-h1);
+}
+
+h2 {
+  font-size: var(--text-h2);
+}
+
+h3 {
+  font-size: var(--text-h3);
+}
+
+.article-copy {
+  max-inline-size: 66ch;
+}
+
 hr {
   border: none;
   border-top: 1px solid var(--minima-border-color-01);
